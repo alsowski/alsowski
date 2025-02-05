@@ -8,6 +8,8 @@
 
 </div>
 
+<br><br>
+
   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJvamw1YjB0bGVwd2xkZjFvN3Z0ZmloZmZhdjYzZm90czBxYXNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif"  height="300px" width="400px">
 
 - 🔭 I’m currently working on **JS, PHP, HTML, REACT**
@@ -19,6 +21,8 @@
 - 📫 Feel free to reach me out **alevilca05@gmail.com**
 
 <div align="center">
+
+  <br><br>
   
   ![alsowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsowski&show_icons=true&theme=algolia&cache_seconds=1800)
 
