@@ -8,7 +8,7 @@
 
 </div>
 
-  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJvamw1YjB0bGVwd2xkZjFvN3Z0ZmloZmZhdjYzZm90czBxYXNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif"  height="400px" width="500px">
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJvamw1YjB0bGVwd2xkZjFvN3Z0ZmloZmZhdjYzZm90czBxYXNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif"  height="200px" width="300px">
 
 - 🔭 I’m currently working on **JS, PHP, HTML, REACT**
 
