@@ -11,6 +11,6 @@
     </a>
   </p> 
  
-  ![alsowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsowski&show_icons=true&theme=dark&cache_seconds=1800)
+  ![alsowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsowski&show_icons=true&theme=algolia&cache_seconds=1800)
   
 </div>
